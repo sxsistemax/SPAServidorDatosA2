@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/02/03 16:36:08.000.327,=C:\Prj\XE2\SPAServidorDatosA2\FormUnit1.pas</Transaction>
+    <Transaction>2014/02/03 16:36:10.000.758,=C:\Prj\XE2\SPAServidorDatosA2\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2014/02/03 16:36:10.000.860,=C:\Prj\XE2\SPAServidorDatosA2\WebModuleUnit1.pas</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.751,=C:\Prj\XE2\SPAServidorDatosA2\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.726,=C:\Prj\XE2\SPAServidorDatosA2\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.762,=C:\Prj\XE2\SPAServidorDatosA2\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.757,=C:\Prj\XE2\SPAServidorDatosA2\templates\ReverseString.html</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.722,=C:\Prj\XE2\SPAServidorDatosA2\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.702,=C:\Prj\XE2\SPAServidorDatosA2\js\CallbackFramework.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.689,=C:\Prj\XE2\SPAServidorDatosA2\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.776,=C:\Prj\XE2\SPAServidorDatosA2\images\expand.png</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.696,=C:\Prj\XE2\SPAServidorDatosA2\js\json2.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.712,=C:\Prj\XE2\SPAServidorDatosA2\js\base64-min.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.747,=C:\Prj\XE2\SPAServidorDatosA2\css\main.css</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.708,=C:\Prj\XE2\SPAServidorDatosA2\js\ServerFunctions.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.736,=C:\Prj\XE2\SPAServidorDatosA2\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.730,=C:\Prj\XE2\SPAServidorDatosA2\js\connection.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.716,=C:\Prj\XE2\SPAServidorDatosA2\js\json2-min.js</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.770,=C:\Prj\XE2\SPAServidorDatosA2\images\collapse.png</Transaction>
+    <Transaction>2014/02/03 16:36:12.000.683,=C:\Prj\XE2\SPAServidorDatosA2\js\base64.js</Transaction>
+    <Transaction>2014/02/03 16:36:23.000.911,C:\Prj\XE2\SPAServidorDatosA2\FormUnit1.pas=C:\Prj\XE2\SPAServidorDatosA2\uPrincipal.pas</Transaction>
+    <Transaction>2014/02/03 16:36:23.000.911,C:\Prj\XE2\SPAServidorDatosA2\FormUnit1.dfm=C:\Prj\XE2\SPAServidorDatosA2\uPrincipal.dfm</Transaction>
+    <Transaction>2014/02/03 16:55:19.000.358,=C:\Prj\XE2\SPAServidorDatosA2\Unit1.pas</Transaction>
+    <Transaction>2014/02/03 17:01:59.000.377,C:\Prj\XE2\SPAServidorDatosA2\Unit1.pas=C:\Prj\XE2\SPAServidorDatosA2\uDatos.pas</Transaction>
+    <Transaction>2014/02/03 17:01:59.000.377,C:\Prj\XE2\SPAServidorDatosA2\Unit1.dfm=C:\Prj\XE2\SPAServidorDatosA2\uDatos.dfm</Transaction>
+    <Transaction>2014/02/05 10:07:38.000.854,=C:\Prj\XE2\CompartidosA2\uSeguridad.pas</Transaction>
+    <Transaction>2014/02/05 10:07:38.000.677,=C:\Prj\XE2\CompartidosA2\uBaseDatosA2.pas</Transaction>
+    <Transaction>2014/02/05 10:07:39.000.408,=C:\Prj\XE2\CompartidosA2\uUtilidadesSPA.pas</Transaction>
+    <Transaction>2014/02/05 10:07:39.000.322,=C:\Prj\XE2\CompartidosA2\uTablasConBlobAdministrativo.pas</Transaction>
+    <Transaction>2014/02/05 10:08:28.000.971,C:\Prj\XE2\CompartidosA2\uBaseDatosA2.pas=</Transaction>
+    <Transaction>2014/02/05 10:08:43.000.011,=C:\Prj\XE2\CompartidosA2\uBaseDatosA2.pas</Transaction>
+    <Transaction>2014/02/05 10:55:44.000.964,C:\Prj\XE2\CompartidosA2\uUtilidadesSPA.pas=</Transaction>
+    <Transaction>2014/02/05 10:55:48.000.699,C:\Prj\XE2\CompartidosA2\uTablasConBlobAdministrativo.pas=</Transaction>
+    <Transaction>2014/02/05 10:55:51.000.559,C:\Prj\XE2\CompartidosA2\uSeguridad.pas=</Transaction>
+    <Transaction>2014/02/05 10:55:54.000.998,C:\Prj\XE2\CompartidosA2\uBaseDatosA2.pas=</Transaction>
+    <Transaction>2014/02/05 10:56:09.000.197,=C:\Prj\CompartidosA2\uBaseDatosA2.pas</Transaction>
+    <Transaction>2014/02/05 10:56:57.000.331,=C:\Prj\CompartidosA2\uTablasConBlobAdministrativo.pas</Transaction>
+    <Transaction>2014/02/16 14:51:26.000.598,=C:\Prj\XE2\SPAServidorDatosA2\Unit1.pas</Transaction>
+    <Transaction>2014/02/16 14:53:54.000.069,C:\Prj\XE2\SPAServidorDatosA2\Unit1.dfm=C:\Prj\XE2\SPAServidorDatosA2\uDatosVulcano.dfm</Transaction>
+    <Transaction>2014/02/16 14:53:54.000.069,C:\Prj\XE2\SPAServidorDatosA2\Unit1.pas=C:\Prj\XE2\SPAServidorDatosA2\uDatosVulcano.pas</Transaction>
+  </Transactions>
+</BorlandProject>
